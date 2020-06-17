@@ -14,10 +14,10 @@
 - [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-yebinbing-blueviolet)](http://www.yebinbing.win)
 - [![](https://img.shields.io/badge/Github-yebinbing-green?logo=appveyor&style=flat)](https://github.com/yebinbing)
 
-## 各平台链接
-- [![](https://img.shields.io/badge/Github-unzup-green?logo=appveyor&style=flat)](https://github.com/yebinbing/unzup)
-- [![](https://img.shields.io/badge/Gitee-unzup-green?logo=appveyor&style=flat)](https://gitee.com/yebinbing/unzip)
-- [![](https://img.shields.io/badge/Gitlab-unzup-green?logo=appveyor&style=flat)](https://gitlab.com/yebinbing1/unzip)
+## 不同平台链接
+- [![](https://img.shields.io/badge/Github-unzip-green?logo=appveyor&style=flat)](https://github.com/yebinbing/unzip)
+- [![](https://img.shields.io/badge/Gitee-unzip-green?logo=appveyor&style=flat)](https://gitee.com/yebinbing/unzip)
+- [![](https://img.shields.io/badge/Gitlab-unzip-green?logo=appveyor&style=flat)](https://gitlab.com/yebinbing1/unzip)
 ## 使用方法
 
 - **压缩文件**
