@@ -1,7 +1,7 @@
 # Unzip类
 
 ## 描述
-- > 在PHP-ZipArchive类的基础上进行二次封装使得方便调用
+- > 在PHP-ZipArchive类的基础上进行二次封装使得方便调用(可用密码加解压文件也可暴力密码)
 - > ***PHP版本***:PHP 5 >= 5.6.0, PHP 7, PECL zip >= 1.12.4
 - > ***zip方法***:用于压缩文件/文件夹
 - >***contents_to_zip方法***:该方法可以在Zip文件里面写入指定文件和内容
@@ -14,6 +14,10 @@
 - [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-yebinbing-blueviolet)](http://www.yebinbing.win)
 - [![](https://img.shields.io/badge/Github-yebinbing-green?logo=appveyor&style=flat)](https://github.com/yebinbing)
 
+## 各平台链接
+- [![](https://img.shields.io/badge/Github-unzup-green?logo=appveyor&style=flat)](https://github.com/yebinbing/unzup)
+- [![](https://img.shields.io/badge/Gitee-unzup-green?logo=appveyor&style=flat)](https://gitee.com/yebinbing/unzip)
+- [![](https://img.shields.io/badge/Gitlab-unzup-green?logo=appveyor&style=flat)](https://gitlab.com/yebinbing1/unzip)
 ## 使用方法
 
 - **压缩文件**
